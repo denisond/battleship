@@ -1,4 +1,3 @@
-# battleships. battleships? i ain't playing games bitch. gat'll click, gravel pit, that'll be ya grave bitch.
 from random import randint
 
 board_player1 = []
